@@ -1,5 +1,5 @@
 # Healthcare-Predictive-Dashboard
-A heart disease predictive dashboard using Power BI and MySQL
+A heart disease predictive dashboard using Power BI and MySQL.
 This project is a full-stack healthcare analytics dashboard built using Power BI and MySQL. It aims to help visualize and interpret patterns in heart disease data and can serve as a baseline for predictive insights.
 
 
@@ -16,7 +16,7 @@ This project is a full-stack healthcare analytics dashboard built using Power BI
 
 🛠️ Tech Stack
        Power BI for interactive data visualization
-       MySQL for backend database and query execution
+       MySQL for backend database and query execution!
        CSV dataset imported and cleaned using SQL
 
 
@@ -39,6 +39,11 @@ The dataset includes patient medical records with fields like:
       Used DAX to create custom columns like Chol_Bins and calculated KPIs
       Implemented multiple filters and slicers for dynamic analysis
       Designed the layout for visual clarity and data storytelling
+
+
+📷 Demo Screenshot
+	![Screenshot 2025-04-22 182028](https://github.com/user-attachments/assets/e8e4f15f-4a03-4685-abc4-401f4dacf6e4)
+ 	![Screenshot 2025-04-22 181911](https://github.com/user-attachments/assets/f1b30333-e2bc-414a-a69f-025912e9c7f9)
 
 
 🤝 Let's Connect
