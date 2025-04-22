@@ -5,13 +5,13 @@
 
 # 📊 Dashboard Features
 # ✅ Key KPIs: Total Patients, Patients with Heart Disease
-  📈 Visuals:
+#  📈 Visuals:
        Age vs. Max Heart Rate
        Cholesterol Distribution
        Heart Disease by Gender
        Chest Pain Type Analysis
-🎯 Target Segmentation: Patients with and without heart disease
-🔎 Slicers for dynamic filtering (age, gender, chest pain type, etc.)
+# 🎯 Target Segmentation: Patients with and without heart disease
+    🔎 Slicers for dynamic filtering (age, gender, chest pain type, etc.)
 
 
 🛠️ Tech Stack
